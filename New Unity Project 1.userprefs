@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NewBehaviourScript.js">
+    <Files>
+      <File FileName="Assets\NewBehaviourScript.js" Line="10" Column="2" />
+      <File FileName="Assets\TriggerScript.js" Line="18" Column="2" />
+      <File FileName="Assets\MoveScript.js" Line="8" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
